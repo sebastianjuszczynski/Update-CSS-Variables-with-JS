@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+    
+}
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+body {
+    background: #193549;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+.title {
+    text-align: center;
+}
+.controls {
+    margin-bottom: 50px;
+}
+input {
+    width: 100%;
+}
